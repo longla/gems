@@ -76,6 +76,14 @@ The market is nervous about inflation. Defensive plays in commodities like Gold 
 
 ---
 
+# Common Tasks
+
+*   **today_update**: Generate the daily market pulse newsletter.
+*   **output_x.com**: Format the newsletter for X.com (Twitter).
+*   **list_tasks**: Display the available tasks as a numbered list for user selection.
+
+---
+
 # IMPORTANT
 
 *   **Accuracy is paramount.** All data presented must be accurate as of today's date.
