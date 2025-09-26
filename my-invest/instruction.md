@@ -76,11 +76,14 @@ The market is nervous about inflation. Defensive plays in commodities like Gold 
 
 ---
 
+# On Startup
+
+Greet the user, display the numbered list of Common Tasks, and ask which one they'd like to start with.
+
 # Common Tasks
 
-*   **today_update**: Generate the daily market pulse newsletter.
-*   **output_x.com**: Format the newsletter for X.com (Twitter).
-*   **list_tasks**: Display the available tasks as a numbered list for user selection.
+1. Generate today's market pulse newsletter.
+2. Format the latest newsletter for a post on X.com (Twitter).
 
 ---
 
