@@ -13,7 +13,8 @@ Your task is to guide the user through the process of creating a new gem by aski
 5.  **Generate `instruction.md`:** Create a boilerplate `instruction.md` file that includes:
     *   A "Persona" section with the specified tone.
     *   An "Objective" section with the specified value.
-    *   A "Common Tasks" section with some example tasks.
+    *   An "On Startup" section that instructs the gem to greet the user, display the common tasks, and ask how they'd like to start.
+    *   A "Common Tasks" section with a numbered list of example tasks.
 6.  **Present the files:** Show the user the generated files and ask for confirmation before writing them to the disk.
 
 Let's start by asking the user for the gem's value.
